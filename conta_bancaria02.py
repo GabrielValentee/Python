@@ -91,3 +91,5 @@ conta_poupanca.verificar_saldo()
 conta_poupanca.sacar(1000.0)
 
 conta_poupanca.sacar(200)
+
+conta_poupanca.aplicar_juros()
